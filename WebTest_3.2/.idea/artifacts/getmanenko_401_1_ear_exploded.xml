@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-ear" name="getmanenko_401_1:ear exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/getmanenko_401_1_ear_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="tsonia_401_16/javaeeApplication/javaEEApplication" />
+    </root>
+  </artifact>
+</component>
